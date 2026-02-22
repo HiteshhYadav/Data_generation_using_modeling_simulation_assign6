@@ -95,7 +95,7 @@ This will:
 
 | Model  | Accuracy | Precision | Recall | F1_Score | ROC_AUC | Train_Time_sec | Rank |
 |-----------|----------|-----------|--------|----------|----------|----------------|------|
-| Random Forest  | 1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 0.092 | 1 |
+| Random Forest ⭐  | 1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 0.092 | 1 |
 | Gradient Boosting | 0.995 | 0.973 | 1.0 | 0.9863 | 1.0 | 0.100 | 2 |
 | Decision Tree | 0.995 | 0.973 | 1.0 | 0.9863 | 0.997 | 0.003 | 3 |
 | KNN (k=5) | 0.995 | 0.973 | 1.0 | 0.9863 | 0.9997 | 0.005 | 4 |
@@ -176,4 +176,5 @@ The best model is selected based on F1 Score, ensuring balanced classification p
 - 102317248
 
 ---
+
 
