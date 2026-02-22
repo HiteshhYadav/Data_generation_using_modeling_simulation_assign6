@@ -21,6 +21,10 @@ The objective is to:
 
 ## 🧠 Simulation Model – SIR
 
+<img src="assets/asset1.png" width="700"/>
+
+<img src="assets/asset2.png" width="700"/>
+
 The SIR model is governed by the following differential equations:
 
 dS/dt = -β(SI/N)  
@@ -176,5 +180,6 @@ The best model is selected based on F1 Score, ensuring balanced classification p
 - 102317248
 
 ---
+
 
 
